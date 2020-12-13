@@ -1,17 +1,21 @@
 ### Hi there 👋
 
+I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and interesting technologies to work with/on.
 
-**big-meel/big-meel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on completing my Back End Roadmap :desktop_computer: :keyboard:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Javascript backend tools :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning...
- * Node.js, Express, Tailwind CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on interesting and useful applications :handshake:
+
+- 🤔 I’m looking for help highlighting all the possible career paths that exist for Developers :thinking:
+
+- 💬 Ask me about Developers in the Caribbean :grin:
+
+- 😄 Pronouns: He/Him
+
+
+### Languages & Tools:
+
+
 
