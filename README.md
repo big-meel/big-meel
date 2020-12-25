@@ -15,7 +15,7 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 - 😄 Pronouns: He/Him
 
 
-[![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel)](https://github.com/big-meel/github-readme-stats)
+[![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&theme=gotham)](https://github.com/big-meel/github-readme-stats)
 
 
 ### Languages & Tools:
