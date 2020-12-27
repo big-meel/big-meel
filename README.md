@@ -15,12 +15,12 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 - 😄 Pronouns: He/Him
 
 
-[![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&theme=gotham&show_icons=true&hide_border=true)](https://github.com/big-meel/github-readme-stats)
+[![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&show_icons=true&hide_border=true)](https://github.com/big-meel/github-readme-stats)
 
 
 ### Languages & Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact)](https://github.com/big-meel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact&hide_border=true)](https://github.com/big-meel/github-readme-stats)
 
 
 
