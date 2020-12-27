@@ -20,5 +20,7 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 ### Languages & Tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact)](https://github.com/big-meel/github-readme-stats)
+
 
 
