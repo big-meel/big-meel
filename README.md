@@ -18,9 +18,14 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 [![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Languages & Tools:
+### Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tools:
+- Rails 
+- Node
+- .NET Core
 
 
 
