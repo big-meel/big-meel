@@ -4,7 +4,7 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 - 🔭 I’m currently working on completing my Back End Roadmap :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning how to leverage Microservices, Typescript and what can I REAALLY do with .NET Core :computer:
+- 🌱 I’m currently learning how to leverage Microservices, Typescript and what can I REALLY do with .NET Core :computer:
 
 - 👯 I’m looking to collaborate on interesting and useful applications :handshake:
 
@@ -22,10 +22,10 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools:
-- Rails 
-- Node
-- .NET Core
+### Tools/Frameworks:
+`Ruby on Rails`
+`Node.js`
+`.NET Core`
 
 
 
