@@ -30,5 +30,8 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 ### Portfolio:
 `Coming Soon`
 
+### Reach Out:
+##### Email: meel.tomlinson@gmail.com
+
 
 
