@@ -8,7 +8,7 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 - 👯 I’m looking to collaborate on interesting and useful applications :handshake:
 
-- 🤔 I’m looking for help highlighting all the possible career paths that exist for Developers :thinking:
+- 🤔 I’m looking for help charting my career path :thinking:
 
 - 💬 Ask me about Developers in the Caribbean :grin:
 
