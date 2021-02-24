@@ -12,8 +12,6 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 - 💬 Ask me about Developers in the Caribbean :grin:
 
-- 😄 Pronouns: He/Him
-
 
 [![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
