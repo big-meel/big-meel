@@ -2,7 +2,7 @@
 
 I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on completing my Back End Roadmap :desktop_computer: :keyboard:
+- 🔭 I’m currently working on completing my Linux Foundation Certification :desktop_computer: :keyboard:
 
 - 🌱 I’m currently learning how to leverage Microservices, Desktop Development and what can I REALLY do with .NET Core :computer:
 
