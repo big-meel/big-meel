@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and interesting technologies to work with/on.
+I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on becoming a DevOps/SRE :desktop_computer: :keyboard:
+- 🔭 I’m currently working on becoming a Dev :desktop_computer: :keyboard:
 
 - 🌱 I’m currently learning how to leverage DevOps Practices and apply them  :computer:
 
