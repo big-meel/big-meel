@@ -18,6 +18,9 @@ I'm Jameel Tomlinson, a Software Developer  always on the hunt for fun and inter
 
 ### Languages:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=big-meel&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tools/Frameworks:
 `Ruby on Rails`
 `Node.js`
