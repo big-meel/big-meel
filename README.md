@@ -2,9 +2,9 @@
 
 I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on becoming a Dev :desktop_computer: :keyboard:
+- 🔭 I’m currently working on Increasing my skillset and knowledge as a Software Engineer :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning how to leverage DevOps Practices and apply them  :computer:
+- 🌱 I’m currently learning more powerful Back-End, Automation and DevOps tools and concepts  :computer:
 
 - 👯 I’m looking to collaborate on interesting and useful technologies :handshake:
 
