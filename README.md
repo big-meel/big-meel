@@ -2,13 +2,13 @@
 
 I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on Increasing my skillset and knowledge as a Software Engineer :desktop_computer: :keyboard:
+- 🔭 I’m currently working on building my Engineering knowledgebase, diversity and understanding :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning more powerful Back-End, Automation and DevOps tools and concepts  :computer:
+- 🌱 I’m currently learning Concurrency and Functional Programming with Elixir :computer:
 
 - 👯 I’m looking to collaborate on interesting and useful technologies :handshake:
 
-- 🤔 I’m looking for help finding jobs, networks or projects that will help me grow my career :thinking:
+- 🤔 I’m looking for help Networking with fellow devs worldwide :thinking:
 
 - 💬 Ask me about Developers in the Caribbean :grin:
 
