@@ -2,7 +2,7 @@
 
 I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on building my Engineering knowledgebase, diversity and understanding :desktop_computer: :keyboard:
+- 🔭 I’m currently working on learning how to be an effective Software Engineer :desktop_computer: :keyboard:
 
 - 🌱 I’m currently learning Concurrency and Functional Programming with Elixir :computer:
 
