@@ -2,13 +2,13 @@
 
 I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
 
-- 🔭 I’m currently working on learning how to be an effective Software Engineer :desktop_computer: :keyboard:
+- 🔭 I’m currently working on improving my knowledge and development of Back-End Architecture :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning Concurrency and Functional Programming with Elixir :computer:
+- 🌱 I’m currently learning how to program with the Phoenix web framework and the Elixir Ecosystem :computer:
 
-- 👯 I’m looking to collaborate on interesting and useful technologies :handshake:
+- 👯 I’m looking to develop autonomy and reliability within the dev community :handshake:
 
-- 🤔 I’m looking for help Networking with fellow devs worldwide :thinking:
+- 🤔 I’m looking for new fun (and hopefully profitable) projects to contribute :thinking:
 
 - 💬 Ask me about Developers in the Caribbean :grin:
 
@@ -23,6 +23,7 @@ I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and intere
 
 ### Tools/Frameworks:
 `Ruby on Rails`
+`Phoenix`
 `Node.js`
 `.NET Core`
 `Docker`
