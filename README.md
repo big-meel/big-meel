@@ -4,7 +4,7 @@ I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and intere
 
 - 🔭 I’m currently working on improving my knowledge and development of Back-End Architecture :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning how to program with the Phoenix web framework and the Elixir Ecosystem :computer:
+- 🌱 I’m currently learning how to become a better programmer with Functional Programming :computer:
 
 - 👯 I’m looking to develop autonomy and reliability within the dev community :handshake:
 
