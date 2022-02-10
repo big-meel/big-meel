@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Jameel Tomlinson, a Software Engineer  always on the hunt for fun and interesting technologies to work with/on.
+I'm Jameel Tomlinson, Builder of worlds, transformer of data;
 
-- 🔭 I’m currently working on improving my knowledge and development of Back-End Architecture :desktop_computer: :keyboard:
+- 🔭 I’m currently working on automating my workflows at my day job :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning how to leverage engineering principles to create better software :computer:
+- 🌱 I’m currently learning how to automate all the things :computer:
 
 - 👯 I’m looking to develop autonomy and reliability within the dev community :handshake:
 
