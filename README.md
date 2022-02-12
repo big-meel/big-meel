@@ -33,6 +33,9 @@ I'm Jameel Tomlinson, Builder of worlds, transformer of data;
 
 ### Reach Out:
 ##### Email: meel.tomlinson@gmail.com
+##### Twitter: @jameel_tweets
+##### Linkedin: [Here](https://www.linkedin.com/in/jameel-tomlinson-7b3379203/)
+
 
 
 
