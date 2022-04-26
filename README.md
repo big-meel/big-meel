@@ -26,7 +26,7 @@ I'm Jameel Tomlinson, Builder of worlds, transformer of data;
 `Phoenix`
 `Node.js`
 `.NET Core`
-`Docker
+`Docker`
 `React`
 
 ### Portfolio:
