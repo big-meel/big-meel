@@ -1,16 +1,14 @@
-### Hi there 👋
+### Sup? 
 
-I'm Jameel Tomlinson, Builder of worlds, transformer of data;
+If you're here, then let's get to work 😎;
 
-- 🔭 I’m currently working on automating my workflows at my day job :desktop_computer: :keyboard:
+- 🔭 I’m currently exploring the possibilities of data :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning how to automate all the things :computer:
+- 🌱 I’m currently learning about data analytics and machine learning :computer:
 
-- 👯 I’m looking to develop autonomy and reliability within the dev community :handshake:
+- 👯 I’m looking to network with anyone doing amazing things :handshake:
 
-- 🤔 I’m looking for new fun (and hopefully profitable) projects to contribute :thinking:
-
-- 💬 Ask me about Developers in the Caribbean :grin:
+- 🤔 I’m pondering the mysteries we have yet to solve  :thinking:
 
 
 [![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,6 +20,7 @@ I'm Jameel Tomlinson, Builder of worlds, transformer of data;
 
 
 ### Tools/Frameworks:
+`Ruby`
 `Ruby on Rails`
 `Phoenix`
 `Node.js`
@@ -32,7 +31,7 @@ I'm Jameel Tomlinson, Builder of worlds, transformer of data;
 ### Portfolio:
 `Coming Soon`
 
-### Reach Out:
+### Let's Connect! 🔗🌏🌎
 ##### Email: meel.tomlinson@gmail.com
 ##### Twitter: @jameel_tweets
 ##### Linkedin: [Here](https://www.linkedin.com/in/jameel-tomlinson-7b3379203/)
