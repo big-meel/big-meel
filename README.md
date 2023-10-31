@@ -8,7 +8,7 @@ If you're here, then let's get to work 😎;
 
 - 👯 I’m looking to network with anyone doing amazing things :handshake:
 
-- 🤔 I’m pondering the mysteries we have yet to solve  :thinking:
+- 🤔 I’m wondering where's the next adventure  :thinking:
 
 
 [![big-meel's github stats](https://github-readme-stats.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
