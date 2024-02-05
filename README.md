@@ -27,6 +27,7 @@ If you're here, then let's get to work 😎;
 `.NET Core`
 `Docker`
 `React`
+`AWS`
 
 ### Portfolio:
 `Coming Soon`
