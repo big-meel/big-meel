@@ -11,7 +11,7 @@ If you're here, then let's get to work 😎;
 - 🤔 I’m wondering where's the next adventure  :thinking:
 
 
-[![big-meel's github stats](https://github-readme-stats-five-xi-35.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![big-meel's github stats](https://github-readme-stats-five-xi-35.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/big-meel/github-readme-stats)
 
 
 ### Languages:
