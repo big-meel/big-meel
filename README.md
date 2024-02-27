@@ -2,9 +2,9 @@
 
 If you're here, then let's get to work 😎;
 
-- 🔭 I’m currently exploring the possibilities of data :desktop_computer: :keyboard:
+- 🔭 I’m currently exploring the opportunities in the real-time industry :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning about data analytics and machine learning :computer:
+- 🌱 I’m currently learning Cloud and Real-Time Development :computer:
 
 - 👯 I’m looking to network with anyone doing amazing things :handshake:
 
