@@ -2,13 +2,13 @@
 
 If you're here, then let's get to work 😎;
 
-- 🔭 I’m currently exploring the opportunities in the real-time industry :desktop_computer: :keyboard:
+- 🔭 I’m currently exploring new technologies in DevOps and Cloud Infrstructure :desktop_computer: :keyboard:
 
-- 🌱 I’m currently learning Cloud and Real-Time Development :computer:
+- 🌱 I’m currently learning new Automation tools and AI integration :computer:
 
 - 👯 I’m looking to network with anyone doing amazing things :handshake:
 
-- 🤔 I’m wondering where's the next adventure  :thinking:
+- 🤔 I’m wondering what else can I automate?  :thinking:
 
 
 [![big-meel's github stats](https://github-readme-stats-2-five-sigma.vercel.app/api?username=big-meel&show_icons=true&hide_border=true&theme=radical)](https://github.com/big-meel/github-readme-stats-2)
@@ -20,7 +20,6 @@ If you're here, then let's get to work 😎;
 
 
 ### Tools/Frameworks:
-`Ruby`
 `Ruby on Rails`
 `Phoenix`
 `Node.js`
@@ -28,6 +27,10 @@ If you're here, then let's get to work 😎;
 `Docker`
 `React`
 `AWS`
+`Docker`
+`Kubernetes`
+`Ansible`
+`Linux`
 
 ### Portfolio:
 `Coming Soon`
