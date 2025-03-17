@@ -31,6 +31,7 @@ If you're here, then let's get to work 😎;
 `Kubernetes`
 `Ansible`
 `Linux`
+'Go'
 
 ### Portfolio:
 `Coming Soon`
